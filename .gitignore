@@ -1,0 +1,4 @@
+node_modules
+/avatar-backend
+/avatar-frontend/.vscode
+/avatar-frontend/node_modules
