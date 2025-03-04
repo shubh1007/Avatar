@@ -124,10 +124,10 @@ const Index = () => {
             Face Recognition
           </div>
           <h1 className="mb-6 text-4xl font-bold tracking-tight text-[#1d1d1f] dark:text-white sm:text-5xl md:text-6xl">
-            Face Clustering
+            Avatar
           </h1>
           <p className="mx-auto max-w-2xl text-[#86868b] dark:text-gray-400">
-            Upload your images and let our advanced algorithm identify and group similar faces
+            Our advanced deep learning system automatically organizes your photos by recognizing and grouping similar faces.
           </p>
         </div>
 

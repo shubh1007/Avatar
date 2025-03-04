@@ -19,6 +19,9 @@
 
 ## 📸 Screenshots
 
+### 🎬 Working Demo
+![Demo](screenshots/demo.gif)
+
 ### 🏠 Home Page
 ![Home Page](screenshots/homepage.png)
 
@@ -43,18 +46,17 @@
 
 ## 🛠️ Installation & Setup
 
-### **1️⃣ Clone the Repository**
 ```sh
 git clone https://github.com/shubh1007/Avatar.git
 cd avatar
 
-cd avatar-backend
+cd backend
 python -m venv venv
 source venv/bin/activate  
 pip install -r requirements.txt
-python app.py
+uvicorn main:app --reload
 
-cd avatar-frontend
+cd frontend
 npm install
 npm run dev
 ```

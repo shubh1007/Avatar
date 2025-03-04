@@ -1,5 +1,4 @@
 node_modules
 /env
-/avatar-backend
-/avatar-frontend/.vscode
-/avatar-frontend/node_modules
+/backend/results/*
+/backend/uploads/*
